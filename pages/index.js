@@ -17,12 +17,12 @@ import SEO from "../components/SEO";
 export default function Home({ githubProfileData }) {
 	return (
 		<div>
-			<SEO
+			{/* <SEO
 				data={{
 					title: "Willie Lee Johnson",
 					description:
-						"A passionate Full Stack Web Developer and Blockchain Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+						"A passionate Full Stack Developer.",
+					image: "https://avatars3.com/",
 					url: "https://williejsn23.netlify.app",
 					keywords: [
 						"Willie",
@@ -34,7 +34,7 @@ export default function Home({ githubProfileData }) {
 						"Willie Lee Johnson Portfolio",
 					],
 				}}
-			/>
+			/> */}
 			<Navigation />
 			<Greetings />
 			<Skills />

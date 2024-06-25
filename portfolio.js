@@ -4,18 +4,11 @@ export const greetings = {
 	name: "Willie Lee Johnson",
 	title: "Hi all, I'm Willie",
 	description:
-		"I am Full Stack developer passioned about creating responsive, high-performance, modern and user-friendly applications for iOS & Android using React Native. I have been working with web apps for 8+ years and mobile apps for 4+ years. Therefore, I have very high quality standards and always strive to provide the best user experience.",
+		"With over 10 years as a Full Stack .NET Developer, I specialize in C#, ASP.NET, .NET Core, VB.NET, and Blazor, crafting scalable and robust applications. My expertise encompasses front-end technologies like React, Angular, and TypeScript, ensuring sleek, user-friendly interfaces. Experienced in architecting microservices and leveraging cloud platforms (Azure, AWS), I enhance application performance and scalability. I'm committed to continuous learning and applying modern software development methodologies to deliver high-quality solutions.",
 	resumeLink:
 		"https://drive.google.com/file/d/1Lw2VIaVivR1S9AobeoxjpQKugJadqXeP/view?usp=sharing",
 	descBullets: [
-		"● React Native, React, React Hooks, React Navigation, Redux",
-		"● Javascript, HTML, CSS, PHP, Typescript, Python",
-		"● Node.js",
-		"● Firebase, SQLite, MsSQL",
-		"● Bitbucket, GitHub, Jira, Trello",
-		"● APIs: Rest APIs, droid/iOS APIs, Expo, Google APIs, Stripe API, GraphQL",
-		"● UI mobile automation: Detox, Appium, Jest",
-		"● Agile: Scrum, Kanban",
+		"● C# ・ .NET ・ .NET Core ・ ASP.NET ・ ASP.NET Core ・ Blazor ・ Entity Framework ・ MVC ・ React ・ Angular ・  Microsoft Azure ・ Microsoft SQL Server ・ SSIS ・ JavaScript ・ VB.NET ・ Microservices ・ Razor ・ LINQ ・ SQL ・ NoSQL ・ Azure DevOps ・ MSTest ・ NUnit ・ HTML/CSS",
 	],
 };
 
@@ -39,7 +32,7 @@ export const skillsSection = {
 		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	data: [
 		{
-			title: "Full Stack Development",
+			title: "Lead Full Stack .NET Developer",
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
@@ -118,7 +111,7 @@ export const skillsSection = {
 			],
 		},
 		{
-			title: "Cloud Infra-Architecture",
+			title: "Senior .NET Developer",
 			lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji("⚡ Experience of working on multiple cloud platforms"),
@@ -173,7 +166,7 @@ export const skillsSection = {
 			],
 		},
 		{
-			title: "Blockchain",
+			title: "Dotnet Developer",
 			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
@@ -224,11 +217,11 @@ export const SkillBars = [
 		progressPercentage: "100",
 	},
 	{
-		Stack: "Frontend Development", //Insert stack or technology you have experience in
+		Stack: "Lead Full Stack .NET Developer", //Insert stack or technology you have experience in
 		progressPercentage: "90", //Insert relative proficiency in percentage
 	},
 	{
-		Stack: "Blockchain",
+		Stack: "Senior .NET Developer",
 		progressPercentage: "60",
 	},
 ];

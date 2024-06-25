@@ -29,9 +29,6 @@ const GithubProfileCard = ({ prof }) => {
 								Address : Romerberg 238 Frankfurt, Frankfurt am Main, Germany   60311
 							</p>
 							<p className="lead text-white mt-3">
-								phone: +1 850 706 9360
-							</p>
-							<p className="lead text-white mt-3">
 								email: starvenus617@gmail.com
 							</p>
 							<p className="text-white mt-3">{prof.bio}</p>

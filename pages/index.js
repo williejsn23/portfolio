@@ -19,19 +19,19 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Marcos Tengaten",
+					title: "Willie Lee Johnson",
 					description:
 						"A passionate Full Stack Web Developer and Blockchain Developer.",
 					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://mhtengaten.netlify.app",
+					url: "https://williejsn23.netlify.app",
 					keywords: [
-						"Marcos",
-						"Marcos Tengaten",
-						"@mhtengaten",
-						"mhtengaten",
+						"Willie",
+						"Willie Lee Johnson",
+						"@williejsn23",
+						"williejsn23",
 						"Portfolio",
-						"Marcos Portfolio ",
-						"Marcos Tengaten Portfolio",
+						"Willie Portfolio ",
+						"Willie Lee Johnson Portfolio",
 					],
 				}}
 			/>

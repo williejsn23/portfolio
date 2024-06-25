@@ -1,12 +1,12 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Marcos Tengaten",
-	title: "Hi all, I'm Marcos",
+	name: "Willie Lee Johnson",
+	title: "Hi all, I'm Willie",
 	description:
 		"I am Full Stack developer passioned about creating responsive, high-performance, modern and user-friendly applications for iOS & Android using React Native. I have been working with web apps for 8+ years and mobile apps for 4+ years. Therefore, I have very high quality standards and always strive to provide the best user experience.",
 	resumeLink:
-		"https://drive.google.com/file/d/1IRD_u3DrIa2jEoHsh2Dh8XWJxCIFjtA1/view?usp=sharing",
+		"https://drive.google.com/file/d/1Lw2VIaVivR1S9AobeoxjpQKugJadqXeP/view?usp=sharing",
 	descBullets: [
 		"● React Native, React, React Hooks, React Navigation, Redux",
 		"● Javascript, HTML, CSS, PHP, Typescript, Python",
@@ -20,17 +20,17 @@ export const greetings = {
 };
 
 export const openSource = {
-	githubUserName: "mhtengaten",
+	githubUserName: "williejsn23",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/mhtengaten",
-	instagram: "https://www.instagram.com/mhtengaten",
-	twitter: "https://twitter.com/mhtengaten",
-	github: "https://github.com/mhtengaten",
-	linkedin: "https://www.linkedin.com/in/marcos-tengaten-63480323b/",
+	facebook: "https://www.facebook.com/williejsn23",
+	instagram: "https://www.instagram.com/williejsn23",
+	twitter: "https://twitter.com/williejsn23",
+	github: "https://github.com/williejsn23",
+	linkedin: "https://www.linkedin.com/in/williejohnson607/",
 };
 
 export const skillsSection = {
@@ -349,22 +349,22 @@ export const projects = [
 		companylogo: "/img/icons/common/web-link.png",
 		name: "FestBlast",
 		desc: "FestBlast is an all-in-one platform that lets you easily find the best music fests, organize your trip and personalize your festival experience.",
-		// github: "https://github.com/mhtengaten",
+		// github: "https://github.com/williejsn23",
 		link: "https://festblast.com",
 	},
 	{
 		companylogo: "/img/icons/common/web-link.png",
 		name: "Reservise",
 		desc: "A mobile application, which allows for online reservation of courts and managing your reservations.",
-		// github: "https://github.com/mhtengaten",
+		// github: "https://github.com/williejsn23",
 		link: "http://reservise.com/",
 	},
 	{
 		companylogo: "/img/icons/common/web-link.png",
 		name: "Developer-Portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/mhtengaten/portfolio",
-		link: "https://mhtengaten.netlify.app/",
+		github: "https://github.com/williejsn23/portfolio",
+		link: "https://williejsn23.netlify.app/",
 	},
 	{
 		companylogo: "/img/icons/common/web-link.png",
@@ -378,7 +378,7 @@ export const feedbacks = [
 	{
 		name: "Michael M.",
 		feedback:
-			"Marcos was a pleasure to work with. He communicated well, took feedback, and incorporated and delivered as promised. I will work with Marcos again.",
+			"Willie was a pleasure to work with. He communicated well, took feedback, and incorporated and delivered as promised. I will work with Willie again.",
 	},
 	// {
 	// 	name: "John Smith",

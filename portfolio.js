@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"With over 10 years as a Full Stack .NET Developer, I specialize in C#, ASP.NET, .NET Core, VB.NET, and Blazor, crafting scalable and robust applications. My expertise encompasses front-end technologies like React, Angular, and TypeScript, ensuring sleek, user-friendly interfaces. Experienced in architecting microservices and leveraging cloud platforms (Azure, AWS), I enhance application performance and scalability. I'm committed to continuous learning and applying modern software development methodologies to deliver high-quality solutions.",
 	resumeLink:
-		"https://drive.google.com/file/d/1Lw2VIaVivR1S9AobeoxjpQKugJadqXeP/view?usp=sharing",
+		"https://drive.google.com/file/d/1il9vaQQrRtr2ZQVAvRPPkm7_BVH5_je6/view?usp=drive_link",
 	descBullets: [
 		"● C# ・ .NET ・ .NET Core ・ ASP.NET ・ ASP.NET Core ・ Blazor ・ Entity Framework ・ MVC ・ React ・ Angular ・  Microsoft Azure ・ Microsoft SQL Server ・ SSIS ・ JavaScript ・ VB.NET ・ Microservices ・ Razor ・ LINQ ・ SQL ・ NoSQL ・ Azure DevOps ・ MSTest ・ NUnit ・ HTML/CSS",
 	],

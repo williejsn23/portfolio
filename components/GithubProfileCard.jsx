@@ -26,10 +26,10 @@ const GithubProfileCard = ({ prof }) => {
 								INBOX IS OPEN FOR ALL
 							</p>
 							<p className="lead text-white mt-3">
-								Address : Romerberg 238 Frankfurt, Frankfurt am Main, Germany   60311
+								Address : 10 Fregata Street, Sunny Beach 8240 Bulgaria
 							</p>
 							<p className="lead text-white mt-3">
-								email: starvenus617@gmail.com
+								email: alfredgerald413@gmail.com
 							</p>
 							<p className="text-white mt-3">{prof.bio}</p>
 							<div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">

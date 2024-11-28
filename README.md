@@ -1,21 +1,21 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/williejsn23/portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/williejsn23/portfolio"></a><a href="https://github.com/williejsn23/portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/williejsn23/portfolio"></a><a href="https://github.com/williejsn23/portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/williejsn23/portfolio"></a> <a href="https://github.com/williejsn23/portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/williejsn23/portfolio"></a>
+<a href="https://github.com/jonathanaraujo/portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/jonathanaraujo/portfolio"></a><a href="https://github.com/jonathanaraujo/portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jonathanaraujo/portfolio"></a><a href="https://github.com/jonathanaraujo/portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/jonathanaraujo/portfolio"></a> <a href="https://github.com/jonathanaraujo/portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/jonathanaraujo/portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/williejsn23/portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/jonathanaraujo/portfolio/blob/master/picture.PNG"></img>
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://williejsn23.netlify.app/)**.
+### To view a live example, **[click here](https://jonathanaraujo.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/williejsn23/portfolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/jonathanaraujo/portfolio/issues).
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/williejsn23/portfolio/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/jonathanaraujo/portfolio/pulls).
 
 ## Table of Contents
 
@@ -58,7 +58,7 @@ From your command line, clone and run portolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/williejsn23/portfolio.git
+$ git clone https://github.com/jonathanaraujo/portfolio.git
 
 # Go into the repository
 $ cd developer-portfolio
@@ -106,12 +106,12 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Willie Lee Johnson**
+👤 **Jonathan Araujo**
 
--   Website: https://williejsn23.netlify.app
--   Twitter: [@williejsn23](https://twitter.com/williejsn23)
--   Github: [@williejsn23](https://github.com/williejsn23)
--   LinkedIn: [@williejsn23](https://www.linkedin.com/in/williejohnson607/)
+-   Website: https://jonathanaraujo.netlify.app
+-   Twitter: [@jonathanaraujo](https://twitter.com/jonathanaraujo)
+-   Github: [@jonathanaraujo](https://github.com/jonathanaraujo)
+-   LinkedIn: [@jonathanaraujo](https://www.linkedin.com/in/jonathanaraujo/)
 
 ## Show your support
 
